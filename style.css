@@ -102,8 +102,8 @@ body {
     }
     footer {
         font-size: 50%;
-        color: #ce00ff;
+        color: #fff;
         display: flex;
         position: fixed;
-        bottom: 20%;
+        bottom: 2%;
     }
