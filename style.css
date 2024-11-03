@@ -63,7 +63,7 @@ body {
         justify-content: center;
         position: absolute;
         left: 33.3%;
-        bottom: 15%;
+        bottom: 18%;
         display: flex;
         width: 33.3%;
         height: 5%;        
@@ -75,7 +75,7 @@ body {
     }
 .slider .dots{
     position: absolute;
-    bottom: 5%;
+    bottom: 10%;
     left: 0;
     color: #ce00ff;
     width: 100%;
